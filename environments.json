@@ -1,34 +1,20 @@
 {
   "type": "array",
+  "stars": [
+    "Protostar","T Tauri","Herbig Ae/Be","Main Sequence","Red Dwarf","Red Giant","White Dwarf","Supergiant","Intrinsic Variable","Neutron","Black Hole","Runaway","Hypervelocity","Halo"
+  ],
   "planets": [
-    "Chthonian",
-    "Carbon",
-    "Coreless",
-    "Desert",
-    "Gas dwarf",
-    "Gas giant",
-    "Helium planet",
-    "Ice giant",
-    "Ice",
-    "Iron",
-    "Lava",
-    "Ocean",
-    "Protoplanet",
-    "Puffy",
-    "Silicate ",
-    "Terrestrial planet"
+    "Chthonian","Carbon","Coreless","Desert","Gas dwarf","Gas giant","Helium planet","Ice giant","Ice","Iron","Lava","Ocean","Protoplanet","Puffy","Silicate ","Terrestrial"
+  ],
+  "artifices": [
+    "O'Neill Cylinder","Dyson Swarm","Dyson Sphere"
   ],
   "ecologies": [
-    "Aquatic ecology",
-    "Deserts",
-    "Forests",
-    "Grasslands",
-    "Shrublands",
-    "Tropical rainforests",
-    "Tundra",
-    "Arctic",
-    "Crystal colony",
-    "Mycelium network",
-    "Ammonia cloud"
+    "Aquatic ecology","Deserts","Forests","Grasslands","Shrublands","Tropical rainforests","Tundra","Arctic","Crystal colony","Mycelium network","Ammonia cloud"
+  ],
+  "economies": [],
+  "governments": [],
+  "religions": [
+    "monotheistic","polytheistic","pantheistic","deistic","atheistic","gnostic","agnostic"
   ]
 }
