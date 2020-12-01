@@ -1,0 +1,34 @@
+{
+  "type": "array",
+  "planets": [
+    "Chthonian",
+    "Carbon",
+    "Coreless",
+    "Desert",
+    "Gas dwarf",
+    "Gas giant",
+    "Helium planet",
+    "Ice giant",
+    "Ice",
+    "Iron",
+    "Lava",
+    "Ocean",
+    "Protoplanet",
+    "Puffy",
+    "Silicate ",
+    "Terrestrial planet"
+  ]
+  "ecologies": [
+    "Aquatic ecology",
+    "Deserts",
+    "Forests",
+    "Grasslands",
+    "Shrublands",
+    "Tropical rainforests",
+    "Tundra",
+    "Arctic",
+    "Crystal colony",
+    "Mycelium network",
+    "Ammonia cloud"
+  ]
+}
