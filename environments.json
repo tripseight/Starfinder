@@ -7,13 +7,17 @@
     "Chthonian","Carbon","Coreless","Desert","Gas dwarf","Gas giant","Helium planet","Ice giant","Ice","Iron","Lava","Ocean","Protoplanet","Puffy","Silicate ","Terrestrial"
   ],
   "artifices": [
-    "O'Neill Cylinder","Dyson Swarm","Dyson Sphere"
+    "O'Neill Cylinder","Dyson Swarm","Dyson Sphere","Ringworld","Banks Orbital","Shellworld","Generation Ship"
   ],
   "ecologies": [
     "Aquatic ecology","Deserts","Forests","Grasslands","Shrublands","Tropical rainforests","Tundra","Arctic","Crystal colony","Mycelium network","Ammonia cloud"
   ],
-  "economies": [],
-  "governments": [],
+  "economies": [
+    "Capitalism","Communism","Socialism","Feudalism","Distributism","Statism","Fascist socialization","Hydraulic despotism","Inclusive democracy","Market economy","Mercantilism","Mutualism","Network economy","Non-property system","Palace economy","Participatory economy","Potlatch","Progressive utilization theory (PROUTist economy)","Proprietism","Social Credit","Workers' self-management"
+  ],
+  "governments": [
+    "anarchy","confederation","federation","unitary","constitutional","monarchy","republic","democracy","plutocracy","noocracy","theocracy"
+  ],
   "religions": [
     "monotheistic","polytheistic","pantheistic","deistic","atheistic","gnostic","agnostic"
   ]
