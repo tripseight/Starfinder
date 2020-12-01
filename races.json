@@ -1,0 +1,20 @@
+{
+  "type": "array",
+  "playable": [
+    "prosaic" [
+      "Android","Human","Elf","Gnome","Dwarf","Orc"
+    ],
+    "anthro" [
+      "Ysoki","Tabaxi","Lycan","Aarakocra"
+    ],
+    "extraterrestrial" [
+      "Kasatha","Lashunta","Shirren","Vesk","Goliath"
+    ],
+    "hybrid" [
+      "Halfling","Tiefling","Aasimar","Cyborg","Genasi"
+    ]
+  ],
+  "restricted": [
+    "Dragon","Demon","Angel","Jinn","Crystal","Silicon","Synthetic","Cephalopod","Illithid"
+  ]
+}
