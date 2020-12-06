@@ -1,20 +1,10 @@
-{
+racesAll = {
   "type": "array",
   "playable": [
-    "prosaic" [
-      "Android","Human","Elf","Gnome","Dwarf","Orc"
-    ],
-    "anthropomorphic" [
-      "Ysoki","Tabaxi","Lycan","Aarakocra"
-    ],
-    "exotic" [
-      "Kasatha","Lashunta","Shirren","Vesk","Goliath"
-    ],
-    "hybrid" [
-      "Halfling","Tiefling","Aasimar","Genasi"
-    ]
+    "prosaic" ["Android", "Human", "Elf", "Gnome", "Dwarf", "Orc"],
+    "anthropomorphic" ["Ysoki", "Tabaxi", "Lycan", "Aarakocra"],
+    "exotic" ["Kasatha", "Lashunta", "Shirren", "Vesk", "Goliath"],
+    "hybrid" ["Halfling", "Tiefling", "Aasimar", "Genasi"]
   ],
-  "restricted": [
-    "Dragon","Demon","Angel","Jinn","Crystal","Silicon","Synthetic","Cephalopod","Illithid","God"
-  ]
+  "restricted": ["Dragon", "Demon", "Angel", "Jinn", "Crystal", "Silicon", "Synthetic", "Cephalopod", "Illithid", "God"]
 }
